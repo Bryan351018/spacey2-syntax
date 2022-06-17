@@ -1,3 +1,3 @@
 ## 0.1.0 - First Release
-* Every feature added
-* Every bug fixed
++ Fully supports C++, JavaScript, HTML, CSS, and MarkDown
++ Partially supports LESS, Shell Script, Git Config, Perl, and JSON
